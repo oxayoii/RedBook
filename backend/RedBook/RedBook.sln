@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBook.API", "RedBook.API\RedBook.API.csproj", "{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedBook.API", "RedBook.API\RedBook.API.csproj", "{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBook.Core", "RedBook.Core\RedBook.Core.csproj", "{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBook.Infrastructure", "RedBook.Infrastructure\RedBook.Infrastructure.csproj", "{C82A8890-2D2F-4E87-AB41-3613C094057C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBook.Service", "RedBook.Service\RedBook.Service.csproj", "{303CE008-A4E7-481F-BDB6-F9F93BE27CB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82A8890-2D2F-4E87-AB41-3613C094057C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82A8890-2D2F-4E87-AB41-3613C094057C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82A8890-2D2F-4E87-AB41-3613C094057C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82A8890-2D2F-4E87-AB41-3613C094057C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303CE008-A4E7-481F-BDB6-F9F93BE27CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303CE008-A4E7-481F-BDB6-F9F93BE27CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303CE008-A4E7-481F-BDB6-F9F93BE27CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303CE008-A4E7-481F-BDB6-F9F93BE27CB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

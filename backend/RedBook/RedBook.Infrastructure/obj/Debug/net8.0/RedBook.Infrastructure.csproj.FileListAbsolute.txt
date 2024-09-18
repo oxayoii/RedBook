@@ -1,0 +1,16 @@
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\bin\Debug\net8.0\RedBook.Infrastructure.deps.json
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\bin\Debug\net8.0\RedBook.Infrastructure.dll
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\bin\Debug\net8.0\RedBook.Infrastructure.pdb
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\bin\Debug\net8.0\RedBook.Core.dll
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\bin\Debug\net8.0\RedBook.Core.pdb
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\RedBook.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\RedBook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\RedBook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\RedBook.Infrastructure.AssemblyInfo.cs
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\RedBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\RedBook.Infrastructure.sourcelink.json
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\RedBook.Infrastructure.csproj.CopyComplete
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\RedBook.Infrastructure.dll
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\refint\RedBook.Infrastructure.dll
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\RedBook.Infrastructure.pdb
+C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Infrastructure\obj\Debug\net8.0\ref\RedBook.Infrastructure.dll

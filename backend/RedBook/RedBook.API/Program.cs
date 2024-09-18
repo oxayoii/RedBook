@@ -1,4 +1,11 @@
 
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using RedBook.API.Models;
+using RedBook.Infrastructure.Repository;
+using RedBook.Service.Services;
+using System.Configuration;
+
 namespace RedBook.API
 {
     public class Program
@@ -6,6 +13,10 @@ namespace RedBook.API
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddDbContext<AppDbContext>();
+            builder.Services.AddScoped<IBookRepository, BookRepository>();
+            builder.Services.AddScoped<IBookService, BookService>();
 
             // Add services to the container.
 
