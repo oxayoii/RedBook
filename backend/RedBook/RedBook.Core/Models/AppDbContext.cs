@@ -41,6 +41,7 @@ public partial class AppDbContext : DbContext
             entity.Property(e => e.Habitat)
                 .HasMaxLength(200)
                 .HasColumnName("habitat");
+            entity.Property(e => e.Image).HasColumnName("image");
             entity.Property(e => e.Location)
                 .HasMaxLength(200)
                 .HasColumnName("location");

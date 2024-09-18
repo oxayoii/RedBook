@@ -11,3 +11,16 @@ C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.
 C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\refint\RedBook.Core.dll
 C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\RedBook.Core.pdb
 C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\ref\RedBook.Core.dll
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\bin\Debug\net8.0\RedBook.Core.deps.json
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\bin\Debug\net8.0\RedBook.Core.dll
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\bin\Debug\net8.0\RedBook.Core.pdb
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\RedBook.Core.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\RedBook.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\RedBook.Core.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\RedBook.Core.AssemblyInfo.cs
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\RedBook.Core.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\RedBook.Core.sourcelink.json
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\RedBook.Core.dll
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\refint\RedBook.Core.dll
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\RedBook.Core.pdb
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Core\obj\Debug\net8.0\ref\RedBook.Core.dll

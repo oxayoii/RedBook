@@ -26,7 +26,7 @@ namespace RedBook.Service.Services
         public async Task<GetKindResponse> GetKind (Guid id)
         {
             var kind = await _bookRepository.GetKind(id);
-            var kindDto = new KindDto(id: kind.Id, animalname: kind.Animalname, taxon: kind.Taxon, population: kind.Population, habitat: kind.Habitat, location: kind.Location, description: kind.Description, parkid: kind.Parkid);
+            var kindDto = new KindDto(id: kind.Id, animalname: kind.Animalname, taxon: kind.Taxon, population: kind.Population, habitat: kind.Habitat, location: kind.Location, description: kind.Description, parkid: kind.Parkid,Image: kind.Image);
 
             return new GetKindResponse(kindDto);
         }

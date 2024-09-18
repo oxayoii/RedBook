@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RedBook.Service
-build_property.ProjectDir = C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.Service\
+build_property.ProjectDir = C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.Service\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

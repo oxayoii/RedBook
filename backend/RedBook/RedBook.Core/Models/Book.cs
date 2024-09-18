@@ -21,5 +21,7 @@ public partial class Book
 
     public Guid? Parkid { get; set; }
 
+    public byte[]? Image { get; set; }
+
     public virtual Park? Park { get; set; }
 }

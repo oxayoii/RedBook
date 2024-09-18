@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedBook.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbacaaa17ba431a1955600bfba7f165f9d8d466c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68a01c26e7c15d75d7781fbb3740fedab8396201")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedBook.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedBook.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

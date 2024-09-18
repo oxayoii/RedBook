@@ -218,3 +218,11 @@ C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.API\obj\Debug\net8.0
 C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.API\obj\Debug\net8.0\ref\RedBook.API.dll
 C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Катя\Documents\RedBook\backend\RedBook\RedBook.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.API\bin\Debug\net8.0\RedBook.Core.dll
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.API\bin\Debug\net8.0\RedBook.Infrastructure.dll
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.API\bin\Debug\net8.0\RedBook.Service.dll
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.API\bin\Debug\net8.0\RedBook.Service.pdb
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.API\bin\Debug\net8.0\RedBook.Core.pdb
+C:\Users\Дима\Desktop\RedBook\backend\RedBook\RedBook.API\bin\Debug\net8.0\RedBook.Infrastructure.pdb

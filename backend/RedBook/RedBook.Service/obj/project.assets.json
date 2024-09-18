@@ -752,24 +752,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Катя\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Дима\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.Service\\RedBook.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Дима\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Service\\RedBook.Service.csproj",
       "projectName": "RedBook.Service",
-      "projectPath": "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.Service\\RedBook.Service.csproj",
-      "packagesPath": "C:\\Users\\Катя\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.Service\\obj\\",
+      "projectPath": "C:\\Users\\Дима\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Service\\RedBook.Service.csproj",
+      "packagesPath": "C:\\Users\\Дима\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Дима\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Service\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Катя\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Дима\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -784,8 +779,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\RedBook.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\RedBook.Infrastructure.csproj"
+            "C:\\Users\\Дима\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\RedBook.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Дима\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\RedBook.Infrastructure.csproj"
             }
           }
         }
@@ -794,6 +789,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -815,7 +815,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
