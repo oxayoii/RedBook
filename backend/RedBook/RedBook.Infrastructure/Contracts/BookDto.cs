@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace RedBook.Infrastructure.Contracts
 {
-    public record BookDto(Guid id, string animalname, string description);
+    public record BookDto(Guid id, string animalname, string description, byte[]? Image);
 }

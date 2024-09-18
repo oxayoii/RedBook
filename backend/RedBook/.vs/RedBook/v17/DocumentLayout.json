@@ -3,56 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.infrastructure\\contracts\\kinddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|solutionrelative:redbook.infrastructure\\contracts\\kinddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{303CE008-A4E7-481F-BDB6-F9F93BE27CB0}|RedBook.Service\\RedBook.Service.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{303CE008-A4E7-481F-BDB6-F9F93BE27CB0}|RedBook.Service\\RedBook.Service.csproj|solutionrelative:redbook.service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}|RedBook.API\\RedBook.API.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}|RedBook.API\\RedBook.API.csproj|solutionrelative:redbook.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}|RedBook.Core\\RedBook.Core.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.core\\models\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}|RedBook.Core\\RedBook.Core.csproj|solutionrelative:redbook.core\\models\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{303CE008-A4E7-481F-BDB6-F9F93BE27CB0}|RedBook.Service\\RedBook.Service.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.service\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{303CE008-A4E7-481F-BDB6-F9F93BE27CB0}|RedBook.Service\\RedBook.Service.csproj|solutionrelative:redbook.service\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.infrastructure\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|solutionrelative:redbook.infrastructure\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.infrastructure\\contracts\\getkindresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|solutionrelative:redbook.infrastructure\\contracts\\getkindresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.infrastructure\\contracts\\getbookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|solutionrelative:redbook.infrastructure\\contracts\\getbookresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}|RedBook.Core\\RedBook.Core.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.core\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}|RedBook.Core\\RedBook.Core.csproj|solutionrelative:redbook.core\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}|RedBook.API\\RedBook.API.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}|RedBook.API\\RedBook.API.csproj|solutionrelative:redbook.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.infrastructure\\contracts\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|solutionrelative:redbook.infrastructure\\contracts\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.infrastructure\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82A8890-2D2F-4E87-AB41-3613C094057C}|RedBook.Infrastructure\\RedBook.Infrastructure.csproj|solutionrelative:redbook.infrastructure\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}|RedBook.Core\\RedBook.Core.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FDC8316-BD3F-4D73-B604-1AF3C2195B79}|RedBook.Core\\RedBook.Core.csproj|solutionrelative:redbook.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}|RedBook.API\\RedBook.API.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\desktop\\redbook\\backend\\redbook\\redbook.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF55B0E-E007-4B3D-B7AC-8137D6E2A0A7}|RedBook.API\\RedBook.API.csproj|solutionrelative:redbook.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,171 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\Program.cs",
-              "RelativeDocumentMoniker": "RedBook.API\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\Program.cs",
-              "RelativeToolTip": "RedBook.API\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:39:00.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Park.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Core\\Models\\Park.cs",
-              "RelativeDocumentMoniker": "RedBook.Core\\Models\\Park.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Core\\Models\\Park.cs",
-              "RelativeToolTip": "RedBook.Core\\Models\\Park.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:38:56.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Service\\Services\\IBookService.cs",
-              "RelativeDocumentMoniker": "RedBook.Service\\Services\\IBookService.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Service\\Services\\IBookService.cs",
-              "RelativeToolTip": "RedBook.Service\\Services\\IBookService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:38:54.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Repository\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "RedBook.Infrastructure\\Repository\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Repository\\IBookRepository.cs",
-              "RelativeToolTip": "RedBook.Infrastructure\\Repository\\IBookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:38:49.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetKindResponse.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Contracts\\GetKindResponse.cs",
-              "RelativeDocumentMoniker": "RedBook.Infrastructure\\Contracts\\GetKindResponse.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Contracts\\GetKindResponse.cs",
-              "RelativeToolTip": "RedBook.Infrastructure\\Contracts\\GetKindResponse.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:38:47.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetBookResponse.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Contracts\\GetBookResponse.cs",
-              "RelativeDocumentMoniker": "RedBook.Infrastructure\\Contracts\\GetBookResponse.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Contracts\\GetBookResponse.cs",
-              "RelativeToolTip": "RedBook.Infrastructure\\Contracts\\GetBookResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:38:39.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Service\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "RedBook.Service\\Services\\BookService.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Service\\Services\\BookService.cs",
-              "RelativeToolTip": "RedBook.Service\\Services\\BookService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:35:36.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KindDto.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Contracts\\KindDto.cs",
-              "RelativeDocumentMoniker": "RedBook.Infrastructure\\Contracts\\KindDto.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Contracts\\KindDto.cs",
-              "RelativeToolTip": "RedBook.Infrastructure\\Contracts\\KindDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:36:19.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Repository\\BookRepository.cs",
-              "RelativeDocumentMoniker": "RedBook.Infrastructure\\Repository\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Repository\\BookRepository.cs",
-              "RelativeToolTip": "RedBook.Infrastructure\\Repository\\BookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:35:27.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "BookDto.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Contracts\\BookDto.cs",
               "RelativeDocumentMoniker": "RedBook.Infrastructure\\Contracts\\BookDto.cs",
               "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Infrastructure\\Contracts\\BookDto.cs",
               "RelativeToolTip": "RedBook.Infrastructure\\Contracts\\BookDto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:35:23.182Z",
+              "WhenOpened": "2024-09-18T15:53:01.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "RedBook.API\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\Controllers\\BookController.cs",
-              "RelativeToolTip": "RedBook.API\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Service\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "RedBook.Service\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Service\\Services\\BookService.cs",
+              "RelativeToolTip": "RedBook.Service\\Services\\BookService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABUAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:35:13.784Z",
+              "WhenOpened": "2024-09-18T15:51:59.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Core\\Models\\Book.cs",
               "RelativeDocumentMoniker": "RedBook.Core\\Models\\Book.cs",
               "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Core\\Models\\Book.cs",
               "RelativeToolTip": "RedBook.Core\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwBcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:35:11.166Z",
+              "WhenOpened": "2024-09-18T15:03:02.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Core\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RedBook.Core\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.Core\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "RedBook.Core\\Models\\AppDbContext.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAlwDUAAAA7AAAA",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "RedBook.API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "RedBook.API\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:35:03.318Z",
+              "WhenOpened": "2024-09-18T15:01:07.798Z",
               "EditorCaption": ""
             }
           ]

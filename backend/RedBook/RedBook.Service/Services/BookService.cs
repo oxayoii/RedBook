@@ -19,7 +19,7 @@ namespace RedBook.Service.Services
         public async Task<GetBookResponse> GetAllKinds(RequestBookSearch request, Guid parkId)
         {
             var book = await _bookRepository.GetAllKinds(request, parkId);
-            var bookDtos = book.Select(n => new BookDto(n.Id, n.Animalname, n.Description)).ToList();
+            var bookDtos = book.Select(n => new BookDto(n.Id, n.Animalname, n.Description, n.Image)).ToList();
 
             return new GetBookResponse(bookDtos);
         }
