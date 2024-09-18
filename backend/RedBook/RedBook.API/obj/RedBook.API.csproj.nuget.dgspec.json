@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj": {}
+    "C:\\Users\\Дима\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj": {
+    "C:\\Users\\Дима\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj",
+        "projectUniqueName": "C:\\Users\\Дима\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj",
         "projectName": "RedBook.API",
-        "projectPath": "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj",
-        "packagesPath": "C:\\Users\\Катя\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.API\\obj\\",
+        "projectPath": "C:\\Users\\Дима\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj",
+        "packagesPath": "C:\\Users\\Дима\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Дима\\Desktop\\RedBook\\backend\\RedBook\\RedBook.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Катя\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Дима\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,15 +35,36 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.7.3, )"
             }
           },
           "imports": [
@@ -69,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

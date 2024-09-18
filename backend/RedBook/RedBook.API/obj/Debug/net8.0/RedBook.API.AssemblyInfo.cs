@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedBook.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+586778d364bf958a7a815a50d9f0513af7a9265b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89b27c948f11c39c54526d5787e2b99fb17cc52f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedBook.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedBook.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
