@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Катя\\Desktop\\RedBook\\RedBook\\RedBook.API\\RedBook.API.csproj": {}
+    "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Катя\\Desktop\\RedBook\\RedBook\\RedBook.API\\RedBook.API.csproj": {
+    "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Катя\\Desktop\\RedBook\\RedBook\\RedBook.API\\RedBook.API.csproj",
+        "projectUniqueName": "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj",
         "projectName": "RedBook.API",
-        "projectPath": "C:\\Users\\Катя\\Desktop\\RedBook\\RedBook\\RedBook.API\\RedBook.API.csproj",
+        "projectPath": "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.API\\RedBook.API.csproj",
         "packagesPath": "C:\\Users\\Катя\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Катя\\Desktop\\RedBook\\RedBook\\RedBook.API\\obj\\",
+        "outputPath": "C:\\Users\\Катя\\Documents\\RedBook\\backend\\RedBook\\RedBook.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
